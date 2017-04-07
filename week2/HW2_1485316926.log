@@ -1,0 +1,1731 @@
+2017-01-24 20:02:06 INFO::Begin Testing Return Val
+2017-01-24 20:02:06 INFO::Winning Door: 3
+2017-01-24 20:02:06 INFO::Selected Door: 1
+2017-01-24 20:02:06 INFO::Opened doors: 2
+2017-01-24 20:02:06 INFO::Player switched to door: 3
+2017-01-24 20:02:06 INFO::The player won!
+2017-01-24 20:02:06 INFO::Winning Door: 2
+2017-01-24 20:02:06 INFO::Selected Door: 3
+2017-01-24 20:02:06 INFO::Opened doors: 1
+2017-01-24 20:02:06 INFO::Player switched to door: 2
+2017-01-24 20:02:06 INFO::The player won!
+2017-01-24 20:02:06 INFO::End Testing Return Val
+2017-01-24 20:02:06 INFO::--------------------
+2017-01-24 20:02:06 INFO::Number of doors: 9
+2017-01-24 20:02:06 INFO::Doors left after opening: 4
+2017-01-24 20:02:06 INFO::Begin Testing Door numbers
+2017-01-24 20:02:06 INFO::End Testing Door Numbers
+2017-01-24 20:02:06 INFO::--------------------
+2017-01-24 20:02:06 INFO::Winning Door: 5
+2017-01-24 20:02:06 INFO::Selected Door: 2
+2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 1
+ 2017-01-24 20:02:06 INFO::Opened doors: 4
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 9
+2017-01-24 20:02:06 INFO::Selected Door: 2
+2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 4
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+ 2017-01-24 20:02:06 INFO::Opened doors: 1
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 1
+2017-01-24 20:02:06 INFO::Selected Door: 4
+2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+ 2017-01-24 20:02:06 INFO::Opened doors: 2
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 7
+2017-01-24 20:02:06 INFO::Selected Door: 4
+2017-01-24 20:02:06 INFO::Opened doors: 2
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 1
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 2
+2017-01-24 20:02:06 INFO::Selected Door: 5
+2017-01-24 20:02:06 INFO::Opened doors: 8
+ 2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 4
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 1
+2017-01-24 20:02:06 INFO::Selected Door: 4
+2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+ 2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 6
+ 2017-01-24 20:02:06 INFO::Opened doors: 2
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 8
+2017-01-24 20:02:06 INFO::Selected Door: 2
+2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 1
+ 2017-01-24 20:02:06 INFO::Opened doors: 6
+ 2017-01-24 20:02:06 INFO::Opened doors: 4
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 7
+2017-01-24 20:02:06 INFO::Selected Door: 5
+2017-01-24 20:02:06 INFO::Opened doors: 8
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 4
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 6
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 6
+2017-01-24 20:02:06 INFO::Selected Door: 8
+2017-01-24 20:02:06 INFO::Opened doors: 1
+ 2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 2
+ 2017-01-24 20:02:06 INFO::Opened doors: 4
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 7
+2017-01-24 20:02:06 INFO::Selected Door: 7
+2017-01-24 20:02:06 INFO::Opened doors: 4
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 6
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+2017-01-24 20:02:06 INFO::The player won!
+2017-01-24 20:02:06 INFO::Winning Door: 2
+2017-01-24 20:02:06 INFO::Selected Door: 4
+2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 1
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+ 2017-01-24 20:02:06 INFO::Opened doors: 7
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 1
+2017-01-24 20:02:06 INFO::Selected Door: 2
+2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 4
+ 2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 6
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 5
+2017-01-24 20:02:06 INFO::Selected Door: 6
+2017-01-24 20:02:06 INFO::Opened doors: 4
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 4
+2017-01-24 20:02:06 INFO::Selected Door: 3
+2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 6
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 1
+2017-01-24 20:02:06 INFO::Selected Door: 1
+2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 6
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+2017-01-24 20:02:06 INFO::The player won!
+2017-01-24 20:02:06 INFO::Winning Door: 8
+2017-01-24 20:02:06 INFO::Selected Door: 6
+2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 2
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 4
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 2
+2017-01-24 20:02:06 INFO::Selected Door: 7
+2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 1
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 4
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 6
+2017-01-24 20:02:06 INFO::Selected Door: 5
+2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 4
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+ 2017-01-24 20:02:06 INFO::Opened doors: 1
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 1
+2017-01-24 20:02:06 INFO::Selected Door: 6
+2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+ 2017-01-24 20:02:06 INFO::Opened doors: 2
+ 2017-01-24 20:02:06 INFO::Opened doors: 7
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 8
+2017-01-24 20:02:06 INFO::Selected Door: 4
+2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 6
+ 2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 2
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 9
+2017-01-24 20:02:06 INFO::Selected Door: 9
+2017-01-24 20:02:06 INFO::Opened doors: 1
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+ 2017-01-24 20:02:06 INFO::Opened doors: 4
+ 2017-01-24 20:02:06 INFO::Opened doors: 7
+2017-01-24 20:02:06 INFO::The player won!
+2017-01-24 20:02:06 INFO::Winning Door: 9
+2017-01-24 20:02:06 INFO::Selected Door: 1
+2017-01-24 20:02:06 INFO::Opened doors: 6
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 2
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 3
+2017-01-24 20:02:06 INFO::Selected Door: 7
+2017-01-24 20:02:06 INFO::Opened doors: 2
+ 2017-01-24 20:02:06 INFO::Opened doors: 1
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 4
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 1
+2017-01-24 20:02:06 INFO::Selected Door: 4
+2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 6
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 1
+2017-01-24 20:02:06 INFO::Selected Door: 5
+2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 6
+ 2017-01-24 20:02:06 INFO::Opened doors: 4
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 4
+2017-01-24 20:02:06 INFO::Selected Door: 9
+2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 1
+ 2017-01-24 20:02:06 INFO::Opened doors: 2
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 4
+2017-01-24 20:02:06 INFO::Selected Door: 7
+2017-01-24 20:02:06 INFO::Opened doors: 2
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 6
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 1
+2017-01-24 20:02:06 INFO::Selected Door: 6
+2017-01-24 20:02:06 INFO::Opened doors: 2
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 8
+2017-01-24 20:02:06 INFO::Selected Door: 3
+2017-01-24 20:02:06 INFO::Opened doors: 6
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 4
+ 2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 2
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 4
+2017-01-24 20:02:06 INFO::Selected Door: 8
+2017-01-24 20:02:06 INFO::Opened doors: 6
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 2
+ 2017-01-24 20:02:06 INFO::Opened doors: 1
+ 2017-01-24 20:02:06 INFO::Opened doors: 7
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 9
+2017-01-24 20:02:06 INFO::Selected Door: 4
+2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 6
+ 2017-01-24 20:02:06 INFO::Opened doors: 1
+ 2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 2
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 2
+2017-01-24 20:02:06 INFO::Selected Door: 2
+2017-01-24 20:02:06 INFO::Opened doors: 1
+ 2017-01-24 20:02:06 INFO::Opened doors: 4
+ 2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+ 2017-01-24 20:02:06 INFO::Opened doors: 6
+2017-01-24 20:02:06 INFO::The player won!
+2017-01-24 20:02:06 INFO::Winning Door: 2
+2017-01-24 20:02:06 INFO::Selected Door: 4
+2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 6
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 5
+2017-01-24 20:02:06 INFO::Selected Door: 8
+2017-01-24 20:02:06 INFO::Opened doors: 4
+ 2017-01-24 20:02:06 INFO::Opened doors: 6
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 1
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 9
+2017-01-24 20:02:06 INFO::Selected Door: 8
+2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 2
+ 2017-01-24 20:02:06 INFO::Opened doors: 1
+ 2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 1
+2017-01-24 20:02:06 INFO::Selected Door: 4
+2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 6
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 6
+2017-01-24 20:02:06 INFO::Selected Door: 2
+2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 4
+ 2017-01-24 20:02:06 INFO::Opened doors: 1
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 1
+2017-01-24 20:02:06 INFO::Selected Door: 3
+2017-01-24 20:02:06 INFO::Opened doors: 6
+ 2017-01-24 20:02:06 INFO::Opened doors: 2
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 7
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 3
+2017-01-24 20:02:06 INFO::Selected Door: 3
+2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 2
+ 2017-01-24 20:02:06 INFO::Opened doors: 1
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+2017-01-24 20:02:06 INFO::The player won!
+2017-01-24 20:02:06 INFO::Winning Door: 4
+2017-01-24 20:02:06 INFO::Selected Door: 5
+2017-01-24 20:02:06 INFO::Opened doors: 2
+ 2017-01-24 20:02:06 INFO::Opened doors: 1
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 2
+2017-01-24 20:02:06 INFO::Selected Door: 6
+2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 4
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 2
+2017-01-24 20:02:06 INFO::Selected Door: 2
+2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 4
+ 2017-01-24 20:02:06 INFO::Opened doors: 6
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+2017-01-24 20:02:06 INFO::The player won!
+2017-01-24 20:02:06 INFO::Winning Door: 2
+2017-01-24 20:02:06 INFO::Selected Door: 3
+2017-01-24 20:02:06 INFO::Opened doors: 4
+ 2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 1
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 8
+2017-01-24 20:02:06 INFO::Selected Door: 2
+2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 1
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 6
+ 2017-01-24 20:02:06 INFO::Opened doors: 7
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 6
+2017-01-24 20:02:06 INFO::Selected Door: 7
+2017-01-24 20:02:06 INFO::Opened doors: 1
+ 2017-01-24 20:02:06 INFO::Opened doors: 4
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 2
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 6
+2017-01-24 20:02:06 INFO::Selected Door: 1
+2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 2
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 2
+2017-01-24 20:02:06 INFO::Selected Door: 8
+2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 6
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 7
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 8
+2017-01-24 20:02:06 INFO::Selected Door: 9
+2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 4
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 2
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 6
+2017-01-24 20:02:06 INFO::Selected Door: 6
+2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 2
+ 2017-01-24 20:02:06 INFO::Opened doors: 1
+2017-01-24 20:02:06 INFO::The player won!
+2017-01-24 20:02:06 INFO::Winning Door: 4
+2017-01-24 20:02:06 INFO::Selected Door: 7
+2017-01-24 20:02:06 INFO::Opened doors: 1
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 2
+ 2017-01-24 20:02:06 INFO::Opened doors: 6
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 2
+2017-01-24 20:02:06 INFO::Selected Door: 5
+2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 1
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 8
+2017-01-24 20:02:06 INFO::Selected Door: 1
+2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 6
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 2
+ 2017-01-24 20:02:06 INFO::Opened doors: 4
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 8
+2017-01-24 20:02:06 INFO::Selected Door: 6
+2017-01-24 20:02:06 INFO::Opened doors: 4
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 9
+2017-01-24 20:02:06 INFO::Selected Door: 2
+2017-01-24 20:02:06 INFO::Opened doors: 4
+ 2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+ 2017-01-24 20:02:06 INFO::Opened doors: 6
+ 2017-01-24 20:02:06 INFO::Opened doors: 1
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 1
+2017-01-24 20:02:06 INFO::Selected Door: 6
+2017-01-24 20:02:06 INFO::Opened doors: 4
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 7
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 3
+2017-01-24 20:02:06 INFO::Selected Door: 6
+2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 4
+ 2017-01-24 20:02:06 INFO::Opened doors: 2
+ 2017-01-24 20:02:06 INFO::Opened doors: 1
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 6
+2017-01-24 20:02:06 INFO::Selected Door: 3
+2017-01-24 20:02:06 INFO::Opened doors: 4
+ 2017-01-24 20:02:06 INFO::Opened doors: 2
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 6
+2017-01-24 20:02:06 INFO::Selected Door: 1
+2017-01-24 20:02:06 INFO::Opened doors: 8
+ 2017-01-24 20:02:06 INFO::Opened doors: 4
+ 2017-01-24 20:02:06 INFO::Opened doors: 2
+ 2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 3
+2017-01-24 20:02:06 INFO::Selected Door: 7
+2017-01-24 20:02:06 INFO::Opened doors: 8
+ 2017-01-24 20:02:06 INFO::Opened doors: 2
+ 2017-01-24 20:02:06 INFO::Opened doors: 6
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 1
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 7
+2017-01-24 20:02:06 INFO::Selected Door: 8
+2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 6
+ 2017-01-24 20:02:06 INFO::Opened doors: 4
+ 2017-01-24 20:02:06 INFO::Opened doors: 2
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 5
+2017-01-24 20:02:06 INFO::Selected Door: 8
+2017-01-24 20:02:06 INFO::Opened doors: 4
+ 2017-01-24 20:02:06 INFO::Opened doors: 6
+ 2017-01-24 20:02:06 INFO::Opened doors: 2
+ 2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 2
+2017-01-24 20:02:06 INFO::Selected Door: 2
+2017-01-24 20:02:06 INFO::Opened doors: 8
+ 2017-01-24 20:02:06 INFO::Opened doors: 4
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 1
+2017-01-24 20:02:06 INFO::The player won!
+2017-01-24 20:02:06 INFO::Winning Door: 9
+2017-01-24 20:02:06 INFO::Selected Door: 3
+2017-01-24 20:02:06 INFO::Opened doors: 4
+ 2017-01-24 20:02:06 INFO::Opened doors: 2
+ 2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 1
+2017-01-24 20:02:06 INFO::Selected Door: 4
+2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 2
+ 2017-01-24 20:02:06 INFO::Opened doors: 6
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 7
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 7
+2017-01-24 20:02:06 INFO::Selected Door: 9
+2017-01-24 20:02:06 INFO::Opened doors: 2
+ 2017-01-24 20:02:06 INFO::Opened doors: 1
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 4
+ 2017-01-24 20:02:06 INFO::Opened doors: 6
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 8
+2017-01-24 20:02:06 INFO::Selected Door: 2
+2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 1
+ 2017-01-24 20:02:06 INFO::Opened doors: 4
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 6
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 9
+2017-01-24 20:02:06 INFO::Selected Door: 8
+2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 1
+ 2017-01-24 20:02:06 INFO::Opened doors: 2
+ 2017-01-24 20:02:06 INFO::Opened doors: 6
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 6
+2017-01-24 20:02:06 INFO::Selected Door: 6
+2017-01-24 20:02:06 INFO::Opened doors: 8
+ 2017-01-24 20:02:06 INFO::Opened doors: 2
+ 2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 4
+2017-01-24 20:02:06 INFO::The player won!
+2017-01-24 20:02:06 INFO::Winning Door: 2
+2017-01-24 20:02:06 INFO::Selected Door: 6
+2017-01-24 20:02:06 INFO::Opened doors: 4
+ 2017-01-24 20:02:06 INFO::Opened doors: 1
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+ 2017-01-24 20:02:06 INFO::Opened doors: 7
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 6
+2017-01-24 20:02:06 INFO::Selected Door: 8
+2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 1
+ 2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 2
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 6
+2017-01-24 20:02:06 INFO::Selected Door: 2
+2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 1
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 6
+2017-01-24 20:02:06 INFO::Selected Door: 8
+2017-01-24 20:02:06 INFO::Opened doors: 1
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 2
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 7
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 2
+2017-01-24 20:02:06 INFO::Selected Door: 4
+2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 4
+2017-01-24 20:02:06 INFO::Selected Door: 8
+2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 1
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 6
+2017-01-24 20:02:06 INFO::Selected Door: 5
+2017-01-24 20:02:06 INFO::Opened doors: 1
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 4
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 1
+2017-01-24 20:02:06 INFO::Selected Door: 2
+2017-01-24 20:02:06 INFO::Opened doors: 6
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 4
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 7
+2017-01-24 20:02:06 INFO::Selected Door: 4
+2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+ 2017-01-24 20:02:06 INFO::Opened doors: 2
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 6
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 1
+2017-01-24 20:02:06 INFO::Selected Door: 4
+2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 2
+ 2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 1
+2017-01-24 20:02:06 INFO::Selected Door: 7
+2017-01-24 20:02:06 INFO::Opened doors: 6
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 2
+ 2017-01-24 20:02:06 INFO::Opened doors: 4
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 2
+2017-01-24 20:02:06 INFO::Selected Door: 3
+2017-01-24 20:02:06 INFO::Opened doors: 4
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 6
+2017-01-24 20:02:06 INFO::Selected Door: 1
+2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 4
+ 2017-01-24 20:02:06 INFO::Opened doors: 2
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 5
+2017-01-24 20:02:06 INFO::Selected Door: 1
+2017-01-24 20:02:06 INFO::Opened doors: 8
+ 2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 6
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 3
+2017-01-24 20:02:06 INFO::Selected Door: 7
+2017-01-24 20:02:06 INFO::Opened doors: 4
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 1
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 6
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 4
+2017-01-24 20:02:06 INFO::Selected Door: 9
+2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+ 2017-01-24 20:02:06 INFO::Opened doors: 6
+ 2017-01-24 20:02:06 INFO::Opened doors: 1
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 4
+2017-01-24 20:02:06 INFO::Selected Door: 9
+2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 6
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 1
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 3
+2017-01-24 20:02:06 INFO::Selected Door: 1
+2017-01-24 20:02:06 INFO::Opened doors: 4
+ 2017-01-24 20:02:06 INFO::Opened doors: 2
+ 2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 4
+2017-01-24 20:02:06 INFO::Selected Door: 1
+2017-01-24 20:02:06 INFO::Opened doors: 8
+ 2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 6
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 2
+2017-01-24 20:02:06 INFO::Selected Door: 2
+2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 6
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+2017-01-24 20:02:06 INFO::The player won!
+2017-01-24 20:02:06 INFO::Winning Door: 2
+2017-01-24 20:02:06 INFO::Selected Door: 9
+2017-01-24 20:02:06 INFO::Opened doors: 8
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 4
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 1
+2017-01-24 20:02:06 INFO::Selected Door: 3
+2017-01-24 20:02:06 INFO::Opened doors: 2
+ 2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 6
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 2
+2017-01-24 20:02:06 INFO::Selected Door: 1
+2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 6
+ 2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 4
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 2
+2017-01-24 20:02:06 INFO::Selected Door: 8
+2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 4
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 9
+2017-01-24 20:02:06 INFO::Selected Door: 9
+2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 4
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 6
+2017-01-24 20:02:06 INFO::The player won!
+2017-01-24 20:02:06 INFO::Winning Door: 1
+2017-01-24 20:02:06 INFO::Selected Door: 5
+2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 2
+ 2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 4
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 9
+2017-01-24 20:02:06 INFO::Selected Door: 7
+2017-01-24 20:02:06 INFO::Opened doors: 2
+ 2017-01-24 20:02:06 INFO::Opened doors: 6
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 4
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 6
+2017-01-24 20:02:06 INFO::Selected Door: 7
+2017-01-24 20:02:06 INFO::Opened doors: 4
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 1
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 5
+2017-01-24 20:02:06 INFO::Selected Door: 2
+2017-01-24 20:02:06 INFO::Opened doors: 8
+ 2017-01-24 20:02:06 INFO::Opened doors: 4
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 1
+ 2017-01-24 20:02:06 INFO::Opened doors: 6
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 8
+2017-01-24 20:02:06 INFO::Selected Door: 3
+2017-01-24 20:02:06 INFO::Opened doors: 1
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 6
+ 2017-01-24 20:02:06 INFO::Opened doors: 4
+ 2017-01-24 20:02:06 INFO::Opened doors: 2
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 4
+2017-01-24 20:02:06 INFO::Selected Door: 7
+2017-01-24 20:02:06 INFO::Opened doors: 2
+ 2017-01-24 20:02:06 INFO::Opened doors: 6
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+ 2017-01-24 20:02:06 INFO::Opened doors: 1
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 9
+2017-01-24 20:02:06 INFO::Selected Door: 8
+2017-01-24 20:02:06 INFO::Opened doors: 1
+ 2017-01-24 20:02:06 INFO::Opened doors: 2
+ 2017-01-24 20:02:06 INFO::Opened doors: 4
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 7
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 3
+2017-01-24 20:02:06 INFO::Selected Door: 5
+2017-01-24 20:02:06 INFO::Opened doors: 6
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+ 2017-01-24 20:02:06 INFO::Opened doors: 1
+ 2017-01-24 20:02:06 INFO::Opened doors: 4
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+2017-01-24 20:02:06 INFO::Player switched to door: 3
+2017-01-24 20:02:06 INFO::The player won!
+2017-01-24 20:02:06 INFO::Winning Door: 4
+2017-01-24 20:02:06 INFO::Selected Door: 4
+2017-01-24 20:02:06 INFO::Opened doors: 8
+ 2017-01-24 20:02:06 INFO::Opened doors: 2
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 7
+2017-01-24 20:02:06 INFO::Player switched to door: 5
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 3
+2017-01-24 20:02:06 INFO::Selected Door: 6
+2017-01-24 20:02:06 INFO::Opened doors: 2
+ 2017-01-24 20:02:06 INFO::Opened doors: 1
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 4
+2017-01-24 20:02:06 INFO::Player switched to door: 3
+2017-01-24 20:02:06 INFO::The player won!
+2017-01-24 20:02:06 INFO::Winning Door: 2
+2017-01-24 20:02:06 INFO::Selected Door: 5
+2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 1
+ 2017-01-24 20:02:06 INFO::Opened doors: 6
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+2017-01-24 20:02:06 INFO::Player switched to door: 2
+2017-01-24 20:02:06 INFO::The player won!
+2017-01-24 20:02:06 INFO::Winning Door: 7
+2017-01-24 20:02:06 INFO::Selected Door: 5
+2017-01-24 20:02:06 INFO::Opened doors: 4
+ 2017-01-24 20:02:06 INFO::Opened doors: 1
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 6
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+2017-01-24 20:02:06 INFO::Player switched to door: 7
+2017-01-24 20:02:06 INFO::The player won!
+2017-01-24 20:02:06 INFO::Winning Door: 4
+2017-01-24 20:02:06 INFO::Selected Door: 6
+2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 1
+ 2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+2017-01-24 20:02:06 INFO::Player switched to door: 4
+2017-01-24 20:02:06 INFO::The player won!
+2017-01-24 20:02:06 INFO::Winning Door: 2
+2017-01-24 20:02:06 INFO::Selected Door: 1
+2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 6
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+2017-01-24 20:02:06 INFO::Player switched to door: 4
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 9
+2017-01-24 20:02:06 INFO::Selected Door: 2
+2017-01-24 20:02:06 INFO::Opened doors: 4
+ 2017-01-24 20:02:06 INFO::Opened doors: 6
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 1
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+2017-01-24 20:02:06 INFO::Player switched to door: 9
+2017-01-24 20:02:06 INFO::The player won!
+2017-01-24 20:02:06 INFO::Winning Door: 5
+2017-01-24 20:02:06 INFO::Selected Door: 8
+2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 1
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 4
+ 2017-01-24 20:02:06 INFO::Opened doors: 6
+2017-01-24 20:02:06 INFO::Player switched to door: 2
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 3
+2017-01-24 20:02:06 INFO::Selected Door: 6
+2017-01-24 20:02:06 INFO::Opened doors: 2
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 4
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+ 2017-01-24 20:02:06 INFO::Opened doors: 1
+2017-01-24 20:02:06 INFO::Player switched to door: 3
+2017-01-24 20:02:06 INFO::The player won!
+2017-01-24 20:02:06 INFO::Winning Door: 8
+2017-01-24 20:02:06 INFO::Selected Door: 2
+2017-01-24 20:02:06 INFO::Opened doors: 1
+ 2017-01-24 20:02:06 INFO::Opened doors: 4
+ 2017-01-24 20:02:06 INFO::Opened doors: 6
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+2017-01-24 20:02:06 INFO::Player switched to door: 3
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 8
+2017-01-24 20:02:06 INFO::Selected Door: 7
+2017-01-24 20:02:06 INFO::Opened doors: 6
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 1
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+2017-01-24 20:02:06 INFO::Player switched to door: 2
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 5
+2017-01-24 20:02:06 INFO::Selected Door: 7
+2017-01-24 20:02:06 INFO::Opened doors: 4
+ 2017-01-24 20:02:06 INFO::Opened doors: 2
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 6
+2017-01-24 20:02:06 INFO::Player switched to door: 5
+2017-01-24 20:02:06 INFO::The player won!
+2017-01-24 20:02:06 INFO::Winning Door: 6
+2017-01-24 20:02:06 INFO::Selected Door: 8
+2017-01-24 20:02:06 INFO::Opened doors: 1
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 2
+ 2017-01-24 20:02:06 INFO::Opened doors: 4
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+2017-01-24 20:02:06 INFO::Player switched to door: 6
+2017-01-24 20:02:06 INFO::The player won!
+2017-01-24 20:02:06 INFO::Winning Door: 7
+2017-01-24 20:02:06 INFO::Selected Door: 5
+2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+ 2017-01-24 20:02:06 INFO::Opened doors: 6
+ 2017-01-24 20:02:06 INFO::Opened doors: 1
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+2017-01-24 20:02:06 INFO::Player switched to door: 4
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 1
+2017-01-24 20:02:06 INFO::Selected Door: 6
+2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 2
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+2017-01-24 20:02:06 INFO::Player switched to door: 9
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 1
+2017-01-24 20:02:06 INFO::Selected Door: 9
+2017-01-24 20:02:06 INFO::Opened doors: 6
+ 2017-01-24 20:02:06 INFO::Opened doors: 4
+ 2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+2017-01-24 20:02:06 INFO::Player switched to door: 3
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 6
+2017-01-24 20:02:06 INFO::Selected Door: 8
+2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 1
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+2017-01-24 20:02:06 INFO::Player switched to door: 4
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 9
+2017-01-24 20:02:06 INFO::Selected Door: 4
+2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+ 2017-01-24 20:02:06 INFO::Opened doors: 1
+ 2017-01-24 20:02:06 INFO::Opened doors: 6
+ 2017-01-24 20:02:06 INFO::Opened doors: 2
+2017-01-24 20:02:06 INFO::Player switched to door: 9
+2017-01-24 20:02:06 INFO::The player won!
+2017-01-24 20:02:06 INFO::Winning Door: 1
+2017-01-24 20:02:06 INFO::Selected Door: 5
+2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 4
+2017-01-24 20:02:06 INFO::Player switched to door: 1
+2017-01-24 20:02:06 INFO::The player won!
+2017-01-24 20:02:06 INFO::Winning Door: 6
+2017-01-24 20:02:06 INFO::Selected Door: 8
+2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 1
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 2
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+2017-01-24 20:02:06 INFO::Player switched to door: 7
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 8
+2017-01-24 20:02:06 INFO::Selected Door: 7
+2017-01-24 20:02:06 INFO::Opened doors: 6
+ 2017-01-24 20:02:06 INFO::Opened doors: 4
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 1
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+2017-01-24 20:02:06 INFO::Player switched to door: 9
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 5
+2017-01-24 20:02:06 INFO::Selected Door: 4
+2017-01-24 20:02:06 INFO::Opened doors: 6
+ 2017-01-24 20:02:06 INFO::Opened doors: 2
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+2017-01-24 20:02:06 INFO::Player switched to door: 7
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 6
+2017-01-24 20:02:06 INFO::Selected Door: 5
+2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 2
+ 2017-01-24 20:02:06 INFO::Opened doors: 4
+ 2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+2017-01-24 20:02:06 INFO::Player switched to door: 3
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 7
+2017-01-24 20:02:06 INFO::Selected Door: 8
+2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 2
+ 2017-01-24 20:02:06 INFO::Opened doors: 4
+ 2017-01-24 20:02:06 INFO::Opened doors: 1
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+2017-01-24 20:02:06 INFO::Player switched to door: 6
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 9
+2017-01-24 20:02:06 INFO::Selected Door: 7
+2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+ 2017-01-24 20:02:06 INFO::Opened doors: 6
+ 2017-01-24 20:02:06 INFO::Opened doors: 4
+ 2017-01-24 20:02:06 INFO::Opened doors: 1
+2017-01-24 20:02:06 INFO::Player switched to door: 9
+2017-01-24 20:02:06 INFO::The player won!
+2017-01-24 20:02:06 INFO::Winning Door: 8
+2017-01-24 20:02:06 INFO::Selected Door: 5
+2017-01-24 20:02:06 INFO::Opened doors: 6
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 2
+ 2017-01-24 20:02:06 INFO::Opened doors: 4
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+2017-01-24 20:02:06 INFO::Player switched to door: 7
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 6
+2017-01-24 20:02:06 INFO::Selected Door: 3
+2017-01-24 20:02:06 INFO::Opened doors: 1
+ 2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 4
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+2017-01-24 20:02:06 INFO::Player switched to door: 6
+2017-01-24 20:02:06 INFO::The player won!
+2017-01-24 20:02:06 INFO::Winning Door: 8
+2017-01-24 20:02:06 INFO::Selected Door: 7
+2017-01-24 20:02:06 INFO::Opened doors: 4
+ 2017-01-24 20:02:06 INFO::Opened doors: 1
+ 2017-01-24 20:02:06 INFO::Opened doors: 6
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+2017-01-24 20:02:06 INFO::Player switched to door: 2
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 9
+2017-01-24 20:02:06 INFO::Selected Door: 5
+2017-01-24 20:02:06 INFO::Opened doors: 8
+ 2017-01-24 20:02:06 INFO::Opened doors: 4
+ 2017-01-24 20:02:06 INFO::Opened doors: 2
+ 2017-01-24 20:02:06 INFO::Opened doors: 6
+ 2017-01-24 20:02:06 INFO::Opened doors: 1
+2017-01-24 20:02:06 INFO::Player switched to door: 3
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 7
+2017-01-24 20:02:06 INFO::Selected Door: 5
+2017-01-24 20:02:06 INFO::Opened doors: 6
+ 2017-01-24 20:02:06 INFO::Opened doors: 2
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 1
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+2017-01-24 20:02:06 INFO::Player switched to door: 3
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 9
+2017-01-24 20:02:06 INFO::Selected Door: 5
+2017-01-24 20:02:06 INFO::Opened doors: 6
+ 2017-01-24 20:02:06 INFO::Opened doors: 2
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 4
+2017-01-24 20:02:06 INFO::Player switched to door: 9
+2017-01-24 20:02:06 INFO::The player won!
+2017-01-24 20:02:06 INFO::Winning Door: 7
+2017-01-24 20:02:06 INFO::Selected Door: 2
+2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 6
+ 2017-01-24 20:02:06 INFO::Opened doors: 4
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+2017-01-24 20:02:06 INFO::Player switched to door: 7
+2017-01-24 20:02:06 INFO::The player won!
+2017-01-24 20:02:06 INFO::Winning Door: 9
+2017-01-24 20:02:06 INFO::Selected Door: 8
+2017-01-24 20:02:06 INFO::Opened doors: 2
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 1
+ 2017-01-24 20:02:06 INFO::Opened doors: 6
+ 2017-01-24 20:02:06 INFO::Opened doors: 7
+2017-01-24 20:02:06 INFO::Player switched to door: 3
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 4
+2017-01-24 20:02:06 INFO::Selected Door: 3
+2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 1
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 2
+2017-01-24 20:02:06 INFO::Player switched to door: 6
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 2
+2017-01-24 20:02:06 INFO::Selected Door: 4
+2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 1
+ 2017-01-24 20:02:06 INFO::Opened doors: 6
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+2017-01-24 20:02:06 INFO::Player switched to door: 3
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 7
+2017-01-24 20:02:06 INFO::Selected Door: 5
+2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 4
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+ 2017-01-24 20:02:06 INFO::Opened doors: 2
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+2017-01-24 20:02:06 INFO::Player switched to door: 1
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 7
+2017-01-24 20:02:06 INFO::Selected Door: 1
+2017-01-24 20:02:06 INFO::Opened doors: 2
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 6
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+2017-01-24 20:02:06 INFO::Player switched to door: 8
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 2
+2017-01-24 20:02:06 INFO::Selected Door: 1
+2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 6
+ 2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+2017-01-24 20:02:06 INFO::Player switched to door: 2
+2017-01-24 20:02:06 INFO::The player won!
+2017-01-24 20:02:06 INFO::Winning Door: 9
+2017-01-24 20:02:06 INFO::Selected Door: 5
+2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+ 2017-01-24 20:02:06 INFO::Opened doors: 1
+ 2017-01-24 20:02:06 INFO::Opened doors: 6
+ 2017-01-24 20:02:06 INFO::Opened doors: 4
+2017-01-24 20:02:06 INFO::Player switched to door: 7
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 2
+2017-01-24 20:02:06 INFO::Selected Door: 4
+2017-01-24 20:02:06 INFO::Opened doors: 1
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+ 2017-01-24 20:02:06 INFO::Opened doors: 6
+2017-01-24 20:02:06 INFO::Player switched to door: 7
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 2
+2017-01-24 20:02:06 INFO::Selected Door: 9
+2017-01-24 20:02:06 INFO::Opened doors: 1
+ 2017-01-24 20:02:06 INFO::Opened doors: 6
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+2017-01-24 20:02:06 INFO::Player switched to door: 2
+2017-01-24 20:02:06 INFO::The player won!
+2017-01-24 20:02:06 INFO::Winning Door: 8
+2017-01-24 20:02:06 INFO::Selected Door: 2
+2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 6
+ 2017-01-24 20:02:06 INFO::Opened doors: 4
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 1
+2017-01-24 20:02:06 INFO::Player switched to door: 8
+2017-01-24 20:02:06 INFO::The player won!
+2017-01-24 20:02:06 INFO::Winning Door: 1
+2017-01-24 20:02:06 INFO::Selected Door: 4
+2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+2017-01-24 20:02:06 INFO::Player switched to door: 2
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 3
+2017-01-24 20:02:06 INFO::Selected Door: 6
+2017-01-24 20:02:06 INFO::Opened doors: 2
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 1
+2017-01-24 20:02:06 INFO::Player switched to door: 3
+2017-01-24 20:02:06 INFO::The player won!
+2017-01-24 20:02:06 INFO::Winning Door: 2
+2017-01-24 20:02:06 INFO::Selected Door: 3
+2017-01-24 20:02:06 INFO::Opened doors: 6
+ 2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 1
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+2017-01-24 20:02:06 INFO::Player switched to door: 4
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 9
+2017-01-24 20:02:06 INFO::Selected Door: 2
+2017-01-24 20:02:06 INFO::Opened doors: 4
+ 2017-01-24 20:02:06 INFO::Opened doors: 1
+ 2017-01-24 20:02:06 INFO::Opened doors: 6
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+2017-01-24 20:02:06 INFO::Player switched to door: 3
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 2
+2017-01-24 20:02:06 INFO::Selected Door: 6
+2017-01-24 20:02:06 INFO::Opened doors: 4
+ 2017-01-24 20:02:06 INFO::Opened doors: 1
+ 2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+2017-01-24 20:02:06 INFO::Player switched to door: 9
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 9
+2017-01-24 20:02:06 INFO::Selected Door: 3
+2017-01-24 20:02:06 INFO::Opened doors: 4
+ 2017-01-24 20:02:06 INFO::Opened doors: 2
+ 2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+2017-01-24 20:02:06 INFO::Player switched to door: 6
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 7
+2017-01-24 20:02:06 INFO::Selected Door: 4
+2017-01-24 20:02:06 INFO::Opened doors: 6
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+ 2017-01-24 20:02:06 INFO::Opened doors: 2
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+2017-01-24 20:02:06 INFO::Player switched to door: 7
+2017-01-24 20:02:06 INFO::The player won!
+2017-01-24 20:02:06 INFO::Winning Door: 2
+2017-01-24 20:02:06 INFO::Selected Door: 7
+2017-01-24 20:02:06 INFO::Opened doors: 4
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 6
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+2017-01-24 20:02:06 INFO::Player switched to door: 2
+2017-01-24 20:02:06 INFO::The player won!
+2017-01-24 20:02:06 INFO::Winning Door: 8
+2017-01-24 20:02:06 INFO::Selected Door: 6
+2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 1
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 2
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+2017-01-24 20:02:06 INFO::Player switched to door: 4
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 5
+2017-01-24 20:02:06 INFO::Selected Door: 8
+2017-01-24 20:02:06 INFO::Opened doors: 6
+ 2017-01-24 20:02:06 INFO::Opened doors: 1
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 4
+2017-01-24 20:02:06 INFO::Player switched to door: 2
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 1
+2017-01-24 20:02:06 INFO::Selected Door: 6
+2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 2
+ 2017-01-24 20:02:06 INFO::Opened doors: 4
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 7
+2017-01-24 20:02:06 INFO::Player switched to door: 5
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 1
+2017-01-24 20:02:06 INFO::Selected Door: 4
+2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+ 2017-01-24 20:02:06 INFO::Opened doors: 2
+ 2017-01-24 20:02:06 INFO::Opened doors: 7
+2017-01-24 20:02:06 INFO::Player switched to door: 6
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 6
+2017-01-24 20:02:06 INFO::Selected Door: 1
+2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 4
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 7
+2017-01-24 20:02:06 INFO::Player switched to door: 2
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 7
+2017-01-24 20:02:06 INFO::Selected Door: 2
+2017-01-24 20:02:06 INFO::Opened doors: 6
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+2017-01-24 20:02:06 INFO::Player switched to door: 4
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 4
+2017-01-24 20:02:06 INFO::Selected Door: 1
+2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 6
+2017-01-24 20:02:06 INFO::Player switched to door: 2
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 7
+2017-01-24 20:02:06 INFO::Selected Door: 5
+2017-01-24 20:02:06 INFO::Opened doors: 6
+ 2017-01-24 20:02:06 INFO::Opened doors: 1
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 4
+2017-01-24 20:02:06 INFO::Player switched to door: 7
+2017-01-24 20:02:06 INFO::The player won!
+2017-01-24 20:02:06 INFO::Winning Door: 1
+2017-01-24 20:02:06 INFO::Selected Door: 4
+2017-01-24 20:02:06 INFO::Opened doors: 2
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 7
+2017-01-24 20:02:06 INFO::Player switched to door: 1
+2017-01-24 20:02:06 INFO::The player won!
+2017-01-24 20:02:06 INFO::Winning Door: 6
+2017-01-24 20:02:06 INFO::Selected Door: 8
+2017-01-24 20:02:06 INFO::Opened doors: 1
+ 2017-01-24 20:02:06 INFO::Opened doors: 2
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 4
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+2017-01-24 20:02:06 INFO::Player switched to door: 6
+2017-01-24 20:02:06 INFO::The player won!
+2017-01-24 20:02:06 INFO::Winning Door: 8
+2017-01-24 20:02:06 INFO::Selected Door: 6
+2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 2
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 4
+2017-01-24 20:02:06 INFO::Player switched to door: 1
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 4
+2017-01-24 20:02:06 INFO::Selected Door: 4
+2017-01-24 20:02:06 INFO::Opened doors: 2
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 6
+2017-01-24 20:02:06 INFO::Player switched to door: 7
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 7
+2017-01-24 20:02:06 INFO::Selected Door: 1
+2017-01-24 20:02:06 INFO::Opened doors: 8
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 6
+ 2017-01-24 20:02:06 INFO::Opened doors: 2
+2017-01-24 20:02:06 INFO::Player switched to door: 3
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 3
+2017-01-24 20:02:06 INFO::Selected Door: 4
+2017-01-24 20:02:06 INFO::Opened doors: 2
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+ 2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+2017-01-24 20:02:06 INFO::Player switched to door: 6
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 5
+2017-01-24 20:02:06 INFO::Selected Door: 6
+2017-01-24 20:02:06 INFO::Opened doors: 1
+ 2017-01-24 20:02:06 INFO::Opened doors: 7
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+ 2017-01-24 20:02:06 INFO::Opened doors: 9
+ 2017-01-24 20:02:06 INFO::Opened doors: 4
+2017-01-24 20:02:06 INFO::Player switched to door: 2
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 7
+2017-01-24 20:02:06 INFO::Selected Door: 9
+2017-01-24 20:02:06 INFO::Opened doors: 4
+ 2017-01-24 20:02:06 INFO::Opened doors: 1
+ 2017-01-24 20:02:06 INFO::Opened doors: 2
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 6
+2017-01-24 20:02:06 INFO::Player switched to door: 3
+2017-01-24 20:02:06 INFO::The player lost.
+2017-01-24 20:02:06 INFO::Winning Door: 9
+2017-01-24 20:02:06 INFO::Selected Door: 4
+2017-01-24 20:02:06 INFO::Opened doors: 1
+ 2017-01-24 20:02:06 INFO::Opened doors: 5
+ 2017-01-24 20:02:06 INFO::Opened doors: 8
+ 2017-01-24 20:02:06 INFO::Opened doors: 3
+ 2017-01-24 20:02:06 INFO::Opened doors: 7
+2017-01-24 20:02:06 INFO::Player switched to door: 6
+2017-01-24 20:02:07 INFO::The player lost.
+2017-01-24 20:02:07 INFO::Winning Door: 4
+2017-01-24 20:02:07 INFO::Selected Door: 5
+2017-01-24 20:02:07 INFO::Opened doors: 2
+ 2017-01-24 20:02:07 INFO::Opened doors: 3
+ 2017-01-24 20:02:07 INFO::Opened doors: 6
+ 2017-01-24 20:02:07 INFO::Opened doors: 8
+ 2017-01-24 20:02:07 INFO::Opened doors: 7
+2017-01-24 20:02:07 INFO::Player switched to door: 4
+2017-01-24 20:02:07 INFO::The player won!
+2017-01-24 20:02:07 INFO::Winning Door: 5
+2017-01-24 20:02:07 INFO::Selected Door: 9
+2017-01-24 20:02:07 INFO::Opened doors: 6
+ 2017-01-24 20:02:07 INFO::Opened doors: 4
+ 2017-01-24 20:02:07 INFO::Opened doors: 7
+ 2017-01-24 20:02:07 INFO::Opened doors: 1
+ 2017-01-24 20:02:07 INFO::Opened doors: 8
+2017-01-24 20:02:07 INFO::Player switched to door: 3
+2017-01-24 20:02:07 INFO::The player lost.
+2017-01-24 20:02:07 INFO::Winning Door: 9
+2017-01-24 20:02:07 INFO::Selected Door: 1
+2017-01-24 20:02:07 INFO::Opened doors: 3
+ 2017-01-24 20:02:07 INFO::Opened doors: 4
+ 2017-01-24 20:02:07 INFO::Opened doors: 5
+ 2017-01-24 20:02:07 INFO::Opened doors: 7
+ 2017-01-24 20:02:07 INFO::Opened doors: 6
+2017-01-24 20:02:07 INFO::Player switched to door: 2
+2017-01-24 20:02:07 INFO::The player lost.
+2017-01-24 20:02:07 INFO::Winning Door: 5
+2017-01-24 20:02:07 INFO::Selected Door: 1
+2017-01-24 20:02:07 INFO::Opened doors: 8
+ 2017-01-24 20:02:07 INFO::Opened doors: 2
+ 2017-01-24 20:02:07 INFO::Opened doors: 3
+ 2017-01-24 20:02:07 INFO::Opened doors: 6
+ 2017-01-24 20:02:07 INFO::Opened doors: 7
+2017-01-24 20:02:07 INFO::Player switched to door: 9
+2017-01-24 20:02:07 INFO::The player lost.
+2017-01-24 20:02:07 INFO::Winning Door: 6
+2017-01-24 20:02:07 INFO::Selected Door: 5
+2017-01-24 20:02:07 INFO::Opened doors: 9
+ 2017-01-24 20:02:07 INFO::Opened doors: 7
+ 2017-01-24 20:02:07 INFO::Opened doors: 1
+ 2017-01-24 20:02:07 INFO::Opened doors: 8
+ 2017-01-24 20:02:07 INFO::Opened doors: 4
+2017-01-24 20:02:07 INFO::Player switched to door: 6
+2017-01-24 20:02:07 INFO::The player won!
+2017-01-24 20:02:07 INFO::Winning Door: 6
+2017-01-24 20:02:07 INFO::Selected Door: 2
+2017-01-24 20:02:07 INFO::Opened doors: 3
+ 2017-01-24 20:02:07 INFO::Opened doors: 9
+ 2017-01-24 20:02:07 INFO::Opened doors: 5
+ 2017-01-24 20:02:07 INFO::Opened doors: 7
+ 2017-01-24 20:02:07 INFO::Opened doors: 1
+2017-01-24 20:02:07 INFO::Player switched to door: 4
+2017-01-24 20:02:07 INFO::The player lost.
+2017-01-24 20:02:07 INFO::Winning Door: 6
+2017-01-24 20:02:07 INFO::Selected Door: 6
+2017-01-24 20:02:07 INFO::Opened doors: 8
+ 2017-01-24 20:02:07 INFO::Opened doors: 7
+ 2017-01-24 20:02:07 INFO::Opened doors: 4
+ 2017-01-24 20:02:07 INFO::Opened doors: 5
+ 2017-01-24 20:02:07 INFO::Opened doors: 9
+2017-01-24 20:02:07 INFO::Player switched to door: 1
+2017-01-24 20:02:07 INFO::The player lost.
+2017-01-24 20:02:07 INFO::Winning Door: 9
+2017-01-24 20:02:07 INFO::Selected Door: 1
+2017-01-24 20:02:07 INFO::Opened doors: 5
+ 2017-01-24 20:02:07 INFO::Opened doors: 4
+ 2017-01-24 20:02:07 INFO::Opened doors: 6
+ 2017-01-24 20:02:07 INFO::Opened doors: 2
+ 2017-01-24 20:02:07 INFO::Opened doors: 8
+2017-01-24 20:02:07 INFO::Player switched to door: 9
+2017-01-24 20:02:07 INFO::The player won!
+2017-01-24 20:02:07 INFO::Winning Door: 1
+2017-01-24 20:02:07 INFO::Selected Door: 2
+2017-01-24 20:02:07 INFO::Opened doors: 3
+ 2017-01-24 20:02:07 INFO::Opened doors: 5
+ 2017-01-24 20:02:07 INFO::Opened doors: 8
+ 2017-01-24 20:02:07 INFO::Opened doors: 4
+ 2017-01-24 20:02:07 INFO::Opened doors: 6
+2017-01-24 20:02:07 INFO::Player switched to door: 1
+2017-01-24 20:02:07 INFO::The player won!
+2017-01-24 20:02:07 INFO::Winning Door: 2
+2017-01-24 20:02:07 INFO::Selected Door: 3
+2017-01-24 20:02:07 INFO::Opened doors: 1
+ 2017-01-24 20:02:07 INFO::Opened doors: 6
+ 2017-01-24 20:02:07 INFO::Opened doors: 5
+ 2017-01-24 20:02:07 INFO::Opened doors: 8
+ 2017-01-24 20:02:07 INFO::Opened doors: 7
+2017-01-24 20:02:07 INFO::Player switched to door: 2
+2017-01-24 20:02:07 INFO::The player won!
+2017-01-24 20:02:07 INFO::Winning Door: 4
+2017-01-24 20:02:07 INFO::Selected Door: 2
+2017-01-24 20:02:07 INFO::Opened doors: 1
+ 2017-01-24 20:02:07 INFO::Opened doors: 5
+ 2017-01-24 20:02:07 INFO::Opened doors: 7
+ 2017-01-24 20:02:07 INFO::Opened doors: 8
+ 2017-01-24 20:02:07 INFO::Opened doors: 6
+2017-01-24 20:02:07 INFO::Player switched to door: 4
+2017-01-24 20:02:07 INFO::The player won!
+2017-01-24 20:02:07 INFO::Winning Door: 3
+2017-01-24 20:02:07 INFO::Selected Door: 1
+2017-01-24 20:02:07 INFO::Opened doors: 7
+ 2017-01-24 20:02:07 INFO::Opened doors: 8
+ 2017-01-24 20:02:07 INFO::Opened doors: 4
+ 2017-01-24 20:02:07 INFO::Opened doors: 6
+ 2017-01-24 20:02:07 INFO::Opened doors: 2
+2017-01-24 20:02:07 INFO::Player switched to door: 5
+2017-01-24 20:02:07 INFO::The player lost.
+2017-01-24 20:02:07 INFO::Winning Door: 6
+2017-01-24 20:02:07 INFO::Selected Door: 2
+2017-01-24 20:02:07 INFO::Opened doors: 1
+ 2017-01-24 20:02:07 INFO::Opened doors: 8
+ 2017-01-24 20:02:07 INFO::Opened doors: 3
+ 2017-01-24 20:02:07 INFO::Opened doors: 9
+ 2017-01-24 20:02:07 INFO::Opened doors: 5
+2017-01-24 20:02:07 INFO::Player switched to door: 6
+2017-01-24 20:02:07 INFO::The player won!
+2017-01-24 20:02:07 INFO::Winning Door: 6
+2017-01-24 20:02:07 INFO::Selected Door: 6
+2017-01-24 20:02:07 INFO::Opened doors: 4
+ 2017-01-24 20:02:07 INFO::Opened doors: 5
+ 2017-01-24 20:02:07 INFO::Opened doors: 3
+ 2017-01-24 20:02:07 INFO::Opened doors: 7
+ 2017-01-24 20:02:07 INFO::Opened doors: 1
+2017-01-24 20:02:07 INFO::Player switched to door: 2
+2017-01-24 20:02:07 INFO::The player lost.
+2017-01-24 20:02:07 INFO::Winning Door: 9
+2017-01-24 20:02:07 INFO::Selected Door: 6
+2017-01-24 20:02:07 INFO::Opened doors: 3
+ 2017-01-24 20:02:07 INFO::Opened doors: 5
+ 2017-01-24 20:02:07 INFO::Opened doors: 8
+ 2017-01-24 20:02:07 INFO::Opened doors: 7
+ 2017-01-24 20:02:07 INFO::Opened doors: 1
+2017-01-24 20:02:07 INFO::Player switched to door: 2
+2017-01-24 20:02:07 INFO::The player lost.
+2017-01-24 20:02:07 INFO::Winning Door: 1
+2017-01-24 20:02:07 INFO::Selected Door: 8
+2017-01-24 20:02:07 INFO::Opened doors: 7
+ 2017-01-24 20:02:07 INFO::Opened doors: 4
+ 2017-01-24 20:02:07 INFO::Opened doors: 9
+ 2017-01-24 20:02:07 INFO::Opened doors: 6
+ 2017-01-24 20:02:07 INFO::Opened doors: 3
+2017-01-24 20:02:07 INFO::Player switched to door: 1
+2017-01-24 20:02:07 INFO::The player won!
+2017-01-24 20:02:07 INFO::Winning Door: 4
+2017-01-24 20:02:07 INFO::Selected Door: 5
+2017-01-24 20:02:07 INFO::Opened doors: 7
+ 2017-01-24 20:02:07 INFO::Opened doors: 1
+ 2017-01-24 20:02:07 INFO::Opened doors: 8
+ 2017-01-24 20:02:07 INFO::Opened doors: 3
+ 2017-01-24 20:02:07 INFO::Opened doors: 6
+2017-01-24 20:02:07 INFO::Player switched to door: 2
+2017-01-24 20:02:07 INFO::The player lost.
+2017-01-24 20:02:07 INFO::Winning Door: 9
+2017-01-24 20:02:07 INFO::Selected Door: 5
+2017-01-24 20:02:07 INFO::Opened doors: 2
+ 2017-01-24 20:02:07 INFO::Opened doors: 3
+ 2017-01-24 20:02:07 INFO::Opened doors: 7
+ 2017-01-24 20:02:07 INFO::Opened doors: 1
+ 2017-01-24 20:02:07 INFO::Opened doors: 4
+2017-01-24 20:02:07 INFO::Player switched to door: 8
+2017-01-24 20:02:07 INFO::The player lost.
+2017-01-24 20:02:07 INFO::Winning Door: 7
+2017-01-24 20:02:07 INFO::Selected Door: 5
+2017-01-24 20:02:07 INFO::Opened doors: 2
+ 2017-01-24 20:02:07 INFO::Opened doors: 6
+ 2017-01-24 20:02:07 INFO::Opened doors: 9
+ 2017-01-24 20:02:07 INFO::Opened doors: 1
+ 2017-01-24 20:02:07 INFO::Opened doors: 4
+2017-01-24 20:02:07 INFO::Player switched to door: 3
+2017-01-24 20:02:07 INFO::The player lost.
+2017-01-24 20:02:07 INFO::Winning Door: 2
+2017-01-24 20:02:07 INFO::Selected Door: 3
+2017-01-24 20:02:07 INFO::Opened doors: 5
+ 2017-01-24 20:02:07 INFO::Opened doors: 8
+ 2017-01-24 20:02:07 INFO::Opened doors: 7
+ 2017-01-24 20:02:07 INFO::Opened doors: 1
+ 2017-01-24 20:02:07 INFO::Opened doors: 4
+2017-01-24 20:02:07 INFO::Player switched to door: 2
+2017-01-24 20:02:07 INFO::The player won!
+2017-01-24 20:02:07 INFO::Winning Door: 5
+2017-01-24 20:02:07 INFO::Selected Door: 3
+2017-01-24 20:02:07 INFO::Opened doors: 6
+ 2017-01-24 20:02:07 INFO::Opened doors: 4
+ 2017-01-24 20:02:07 INFO::Opened doors: 9
+ 2017-01-24 20:02:07 INFO::Opened doors: 1
+ 2017-01-24 20:02:07 INFO::Opened doors: 2
+2017-01-24 20:02:07 INFO::Player switched to door: 7
+2017-01-24 20:02:07 INFO::The player lost.
+2017-01-24 20:02:07 INFO::Winning Door: 3
+2017-01-24 20:02:07 INFO::Selected Door: 6
+2017-01-24 20:02:07 INFO::Opened doors: 1
+ 2017-01-24 20:02:07 INFO::Opened doors: 2
+ 2017-01-24 20:02:07 INFO::Opened doors: 8
+ 2017-01-24 20:02:07 INFO::Opened doors: 9
+ 2017-01-24 20:02:07 INFO::Opened doors: 4
+2017-01-24 20:02:07 INFO::Player switched to door: 3
+2017-01-24 20:02:07 INFO::The player won!
+2017-01-24 20:02:07 INFO::Winning Door: 2
+2017-01-24 20:02:07 INFO::Selected Door: 8
+2017-01-24 20:02:07 INFO::Opened doors: 7
+ 2017-01-24 20:02:07 INFO::Opened doors: 1
+ 2017-01-24 20:02:07 INFO::Opened doors: 3
+ 2017-01-24 20:02:07 INFO::Opened doors: 9
+ 2017-01-24 20:02:07 INFO::Opened doors: 5
+2017-01-24 20:02:07 INFO::Player switched to door: 4
+2017-01-24 20:02:07 INFO::The player lost.
+2017-01-24 20:02:07 INFO::Winning Door: 9
+2017-01-24 20:02:07 INFO::Selected Door: 9
+2017-01-24 20:02:07 INFO::Opened doors: 1
+ 2017-01-24 20:02:07 INFO::Opened doors: 2
+ 2017-01-24 20:02:07 INFO::Opened doors: 6
+ 2017-01-24 20:02:07 INFO::Opened doors: 5
+ 2017-01-24 20:02:07 INFO::Opened doors: 3
+2017-01-24 20:02:07 INFO::Player switched to door: 7
+2017-01-24 20:02:07 INFO::The player lost.
+2017-01-24 20:02:07 INFO::Winning Door: 4
+2017-01-24 20:02:07 INFO::Selected Door: 7
+2017-01-24 20:02:07 INFO::Opened doors: 9
+ 2017-01-24 20:02:07 INFO::Opened doors: 8
+ 2017-01-24 20:02:07 INFO::Opened doors: 3
+ 2017-01-24 20:02:07 INFO::Opened doors: 2
+ 2017-01-24 20:02:07 INFO::Opened doors: 1
+2017-01-24 20:02:07 INFO::Player switched to door: 5
+2017-01-24 20:02:07 INFO::The player lost.
+2017-01-24 20:02:07 INFO::Winning Door: 4
+2017-01-24 20:02:07 INFO::Selected Door: 4
+2017-01-24 20:02:07 INFO::Opened doors: 1
+ 2017-01-24 20:02:07 INFO::Opened doors: 3
+ 2017-01-24 20:02:07 INFO::Opened doors: 6
+ 2017-01-24 20:02:07 INFO::Opened doors: 9
+ 2017-01-24 20:02:07 INFO::Opened doors: 8
+2017-01-24 20:02:07 INFO::Player switched to door: 7
+2017-01-24 20:02:07 INFO::The player lost.
+2017-01-24 20:02:07 INFO::Winning Door: 2
+2017-01-24 20:02:07 INFO::Selected Door: 2
+2017-01-24 20:02:07 INFO::Opened doors: 3
+ 2017-01-24 20:02:07 INFO::Opened doors: 5
+ 2017-01-24 20:02:07 INFO::Opened doors: 7
+ 2017-01-24 20:02:07 INFO::Opened doors: 6
+ 2017-01-24 20:02:07 INFO::Opened doors: 4
+2017-01-24 20:02:07 INFO::Player switched to door: 9
+2017-01-24 20:02:07 INFO::The player lost.
+2017-01-24 20:02:07 INFO::Winning Door: 1
+2017-01-24 20:02:07 INFO::Selected Door: 3
+2017-01-24 20:02:07 INFO::Opened doors: 7
+ 2017-01-24 20:02:07 INFO::Opened doors: 6
+ 2017-01-24 20:02:07 INFO::Opened doors: 4
+ 2017-01-24 20:02:07 INFO::Opened doors: 5
+ 2017-01-24 20:02:07 INFO::Opened doors: 8
+2017-01-24 20:02:07 INFO::Player switched to door: 9
+2017-01-24 20:02:07 INFO::The player lost.
+2017-01-24 20:02:07 INFO::Winning Door: 4
+2017-01-24 20:02:07 INFO::Selected Door: 8
+2017-01-24 20:02:07 INFO::Opened doors: 2
+ 2017-01-24 20:02:07 INFO::Opened doors: 5
+ 2017-01-24 20:02:07 INFO::Opened doors: 9
+ 2017-01-24 20:02:07 INFO::Opened doors: 3
+ 2017-01-24 20:02:07 INFO::Opened doors: 6
+2017-01-24 20:02:07 INFO::Player switched to door: 7
+2017-01-24 20:02:07 INFO::The player lost.
+2017-01-24 20:02:07 INFO::Winning Door: 6
+2017-01-24 20:02:07 INFO::Selected Door: 4
+2017-01-24 20:02:07 INFO::Opened doors: 1
+ 2017-01-24 20:02:07 INFO::Opened doors: 5
+ 2017-01-24 20:02:07 INFO::Opened doors: 8
+ 2017-01-24 20:02:07 INFO::Opened doors: 3
+ 2017-01-24 20:02:07 INFO::Opened doors: 9
+2017-01-24 20:02:07 INFO::Player switched to door: 6
+2017-01-24 20:02:07 INFO::The player won!
+2017-01-24 20:02:07 INFO::Winning Door: 1
+2017-01-24 20:02:07 INFO::Selected Door: 8
+2017-01-24 20:02:07 INFO::Opened doors: 3
+ 2017-01-24 20:02:07 INFO::Opened doors: 5
+ 2017-01-24 20:02:07 INFO::Opened doors: 9
+ 2017-01-24 20:02:07 INFO::Opened doors: 6
+ 2017-01-24 20:02:07 INFO::Opened doors: 4
+2017-01-24 20:02:07 INFO::Player switched to door: 2
+2017-01-24 20:02:07 INFO::The player lost.
+2017-01-24 20:02:07 INFO::Winning Door: 2
+2017-01-24 20:02:07 INFO::Selected Door: 6
+2017-01-24 20:02:07 INFO::Opened doors: 4
+ 2017-01-24 20:02:07 INFO::Opened doors: 9
+ 2017-01-24 20:02:07 INFO::Opened doors: 3
+ 2017-01-24 20:02:07 INFO::Opened doors: 7
+ 2017-01-24 20:02:07 INFO::Opened doors: 1
+2017-01-24 20:02:07 INFO::Player switched to door: 8
+2017-01-24 20:02:07 INFO::The player lost.
+2017-01-24 20:02:07 INFO::
+2017-01-24 20:02:07 INFO::Getting Results
+2017-01-24 20:02:07 INFO::Number of doors: 9
+2017-01-24 20:02:07 INFO::Doors left after opening: 4
+2017-01-24 20:02:07 INFO::
+2017-01-24 20:02:07 INFO::Switching:
+2017-01-24 20:02:07 INFO::Probability: 0.35
+2017-01-24 20:02:07 INFO::Variance: 0.22979797979798
+2017-01-24 20:02:07 INFO::
+2017-01-24 20:02:07 INFO::Staying:
+2017-01-24 20:02:07 INFO::Probability When staying: 0.11
+2017-01-24 20:02:07 INFO::Variance: 0.0988888888888889
+2017-01-24 20:02:07 INFO::

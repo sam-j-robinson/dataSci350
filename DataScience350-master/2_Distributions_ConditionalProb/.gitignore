@@ -1,0 +1,7 @@
+.httr-oauth
+.Rhistory
+Solutions/
+*.pptx
+*.ppt
+*.db
+*.sqlite

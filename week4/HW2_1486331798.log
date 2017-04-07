@@ -1,0 +1,19 @@
+2017-02-05 13:56:38 INFO::Title: Chicago Data LM
+2017-02-05 13:56:38 INFO::Script By: Sam Robinson
+2017-02-05 13:56:38 INFO::Data was loaded into our data table correctly
+2017-02-05 13:56:38 INFO::Crude value LM created
+2017-02-05 13:56:38 INFO::Analysis of Crude LM Equation
+2017-02-05 13:56:38 INFO::Crude LM equation: x =  1.11072534722201 y +  1.62186823446606
+2017-02-05 13:56:38 INFO::Slope Interpretation: For an increase in 1 crude value of hospitilizations we expect the admition rate to increase by 1.11072534722201 . We predict at 0 hospitilizations that the admission rate will be, 1.62186823446606 .
+2017-02-05 13:56:38 INFO::Comments: The equation does not make sense for real world analysis. When there are no hispitilizations we can't 
+                have a rate of hospitilizations. This is acceptable in understand that coefficient of the model.
+2017-02-05 13:56:38 INFO::
+2017-02-05 13:56:38 INFO::Analysis of Diff LM Equation
+2017-02-05 13:56:38 INFO::Diff LM equation: x =  1.0933676417376 y +  0.00116878592958968
+2017-02-05 13:56:38 INFO::Slope Interpretation: For an increase in 1 value of differences in hospitilizations we expect the admition rate to increase by 1.0933676417376 . We predict at no change in hospitilizations the admission rate will change by, 0.00116878592958968 .
+2017-02-05 13:56:38 INFO::Comments: We can see that when the difference in hospitilizations remains constant that our model does not 
+          predict a change in the rate of hospitilizations. It is encouraging seeing that with no rate change we can expect
+          a stable rate of admission.
+2017-02-05 13:56:38 INFO::--END ANALYSIS--
+2017-02-05 13:56:38 INFO::With our crude lm SSR value equaling 0.998275236965497 and our difference lm SSR value equaling 0.997966252260164 we can say that both models are close to equally good at predicting expected
+                admission rates in hospitals. This is reinforced by equally low p-values for both models.

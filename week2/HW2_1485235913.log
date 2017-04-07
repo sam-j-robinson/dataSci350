@@ -1,0 +1,13 @@
+2017-01-23 21:31:53 INFO::Begin Testing Return Val
+2017-01-23 21:31:53 INFO::Winning Door: 2
+2017-01-23 21:31:53 INFO::Selected Door: 1
+2017-01-23 21:31:53 INFO::Opened doors: 3
+2017-01-23 21:31:53 INFO::Player switched to door: 2
+2017-01-23 21:31:53 INFO::The player won!
+2017-01-23 21:31:53 INFO::Winning Door: 1
+2017-01-23 21:31:53 INFO::Selected Door: 1
+2017-01-23 21:31:53 INFO::Opened doors: 3
+2017-01-23 21:31:53 INFO::Player switched to door: 2
+2017-01-23 21:31:53 INFO::The player lost.
+2017-01-23 21:31:53 INFO::End Testing Return Val
+2017-01-23 21:31:53 INFO::--------------------
